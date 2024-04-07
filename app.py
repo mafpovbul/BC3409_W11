@@ -4,8 +4,8 @@ import replicate
 import os
 import time
 
-os.environ["REPLICATE_API_TOKEN"] = "r8_Gxanu3oPoqGsCJfry4o9OEe8858SQRI1iWYE8"
-palm.configure(api_key="AIzaSyCCT1K99BJ1JbLwhCE7qOcQ5KOZcPJ9ZZ4")
+os.environ["REPLICATE_API_TOKEN"] = "r8_bYnt5tVefcaJDfFnWqkR5W6HnZE5eKV34pXsw"
+palm.configure(api_key="AIzaSyBX1JfMHgf9TDF_HCQy3wUnincRhoMsyQU")
 model = {
     "model": "models/chat-bison-001",
 }
